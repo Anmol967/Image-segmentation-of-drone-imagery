@@ -8,4 +8,6 @@
 
 &emsp;● Train, validation losses vs epochs have been visualized .
 
+Link to my Kaggle notebook - https://www.kaggle.com/code/anmolbhatia/j009-ann-m2-imgseg (Version 3 contains inference of best model on test images)
+
 Link to Kaggle dataset - https://www.kaggle.com/competitions/ann-segmentation-m2/data
